@@ -1,9 +1,2 @@
-chainlit
-langchain
-openai
-python-dotenv
-pymupdf
-qdrant-client
-gunicorn
 fastapi
 uvicorn[standard]
